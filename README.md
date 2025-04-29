@@ -43,7 +43,7 @@ Remove a book from the library by ID. All three BST deletion cases (leaf, one ch
 <br> 8. View Borrowed Books
 <br> Displays all books ever borrowed with their Borrowed/Returned status — avoiding duplicates and preserving history
 
-# Technologies / Concepts Used
+# Concepts Used
 <br> 
 <br> Programming Language: C (Standard C99)
 <br> 
@@ -52,12 +52,11 @@ Remove a book from the library by ID. All three BST deletion cases (leaf, one ch
 <br> 2. Singly Linked List (for Borrowed Books)
 <br> 3. Stack (for Undo functionality)
 <br> 
-# Algorithms:
+
+# Algorithms
 
 <br> Insertion, Deletion, In-order Traversal in BST
-
 <br> Linked List insertion, status tracking
-
 <br> Stack push/pop for undo feature
 
 
