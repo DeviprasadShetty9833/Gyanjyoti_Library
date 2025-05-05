@@ -28,7 +28,7 @@
 
 <br> 
 <br> 4. Delete Book
-Remove a book from the library by ID. All three BST deletion cases (leaf, one child, two children) are handled.
+<br> Remove a book from the library by ID. All three BST deletion cases (leaf, one child, two children) are handled.
 
 <br> 
 <br> 5. Undo Last Deleted Book
