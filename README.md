@@ -54,17 +54,17 @@
 <br> Programming Language: C (Standard C99)
 <br> 
 <br> Data Structures Used:
-<br> 1. Binary Search Tree (for Book Database)
-<br> 2. Singly Linked List (for Borrowed Books)
-<br> 3. Stack (for Undo functionality)
-<br> 4. CLI-based Interface
-<br> 5. Dynamic Memory Management (malloc, free)
+<br> ⊡⁠ Binary Search Tree (for Book Database)
+<br> ⊡⁠ Singly Linked List (for Borrowed Books)
+<br> ⊡⁠ Stack (for Undo functionality)
+<br> ⊡⁠ CLI-based Interface
+<br> ⊡⁠ Dynamic Memory Management (malloc, free)
 <br> 
 
 # Algorithms:
-<br> Insertion, Deletion, In-order Traversal in BST
-<br> Linked List insertion, status tracking
-<br> Stack push/pop for undo feature
+<br> ⊡⁠ Insertion, Deletion, In-order Traversal in BST
+<br> ⊡⁠ Linked List insertion, status tracking
+<br> ⊡⁠ Stack push/pop for undo feature
 <br> 
 
 # Output:
