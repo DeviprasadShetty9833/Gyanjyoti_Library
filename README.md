@@ -3,6 +3,7 @@
 <br> 
 
 # My Intro:
+
 <br> Hi, 😃👋 Myself Deviprasad Shetty highly passionate for coding, learning and exploring new fields in Computer Science domain. 
 <br> I'm excited 😃 to dive deeper into my technical skills, collaborate with others, and take on projects that challenge me to grow. 
 <br> Always eager to learn and connect with others who share similar interests! 🤗🧑‍💻
@@ -13,12 +14,14 @@
 <br> 
 
 # Overview:
+
 <br> This is a command-line-based Library Management System developed in C, designed using core Data Structures such as Linked Lists, Binary Search Trees, and optionally a Stack.
 <br> 
 <br> The system allows users to perform real-world operations like adding, searching, deleting, borrowing, and returning books — with efficient in-memory handling and a clear, menu-driven interface.
 <br> 
 
 # Key Features:
+
 <br> 1. Add Book
 <br> Allows the user to insert a new book (ID, Title, Author) into the library. Books are stored in a Binary Search Tree for fast and sorted access.
 
@@ -51,6 +54,7 @@
 <br> Displays all books ever borrowed with their Borrowed/Returned status — avoiding duplicates and preserving history
 
 # Concepts Used:
+
 <br> Programming Language: C (Standard C99)
 <br> 
 <br> Data Structures Used:
@@ -62,6 +66,7 @@
 <br> 
 
 # Algorithms:
+
 <br> ⊡⁠ Insertion, Deletion, In-order Traversal in BST
 <br> ⊡⁠ Linked List insertion, status tracking
 <br> ⊡⁠ Stack push/pop for undo feature
