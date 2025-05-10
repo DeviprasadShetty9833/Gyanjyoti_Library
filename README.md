@@ -76,6 +76,6 @@
 
 # Feedback:
 <br> I’d love to hear from you!
-<br> If you encounter any [Bugs](https://github.com/DeviprasadShetty9833/Library_Management_System/blob/main/Issue_Template/Bug_report.md), Issues, or have [Suggestions](https://github.com/DeviprasadShetty9833/Library_Management_System/blob/main/Issue_Template/Features_report.md) for improvements.
+<br> If you encounter any [Bugs](https://github.com/DeviprasadShetty9833/Library_Management_System/blob/main/Issue_Template/Bug_report.md), [Issues](https://github.com/DeviprasadShetty9833/Library_Management_System/issues), or have [Suggestions](https://github.com/DeviprasadShetty9833/Library_Management_System/blob/main/Issue_Template/Features_report.md) for improvements.
 
 
