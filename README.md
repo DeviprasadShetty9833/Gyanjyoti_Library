@@ -1,4 +1,4 @@
-# Library_Management_System
+# Gyanjyoti_Library 
 <br> Author: Deviprasad Shetty
 <br> 
 
@@ -15,7 +15,7 @@
 
 # Overview:
 
-<br> This is a command-line-based Library Management System developed in C, designed using core Data Structures such as Linked Lists, Binary Search Trees, and optionally a Stack.
+<br> Gyanjyoti_Library is a command-line-based Library Management System developed in C, designed using core Data Structures such as Linked Lists, Binary Search Trees, and optionally a Stack.
 <br> 
 <br> The system allows users to perform real-world operations like adding, searching, deleting, borrowing, and returning books — with efficient in-memory handling and a clear, menu-driven interface.
 <br> 
