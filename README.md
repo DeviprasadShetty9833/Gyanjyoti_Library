@@ -73,6 +73,8 @@
 <br> ⊡⁠ Stack push/pop for undo feature
 <br> 
 
+# How to Use:
+
 # Output:
 
 # Feedback:
