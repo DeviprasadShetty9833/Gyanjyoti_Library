@@ -89,4 +89,13 @@
 <br> I’d love to hear from you!
 <br> If you encounter any [Bugs](https://github.com/DeviprasadShetty9833/Library_Management_System/blob/main/Issue_Template/Bug_report.md), [Issues](https://github.com/DeviprasadShetty9833/Library_Management_System/issues), or have [Suggestions](https://github.com/DeviprasadShetty9833/Library_Management_System/blob/main/Issue_Template/Features_report.md) for improvements.
 
+# Support:
+If you like ❤️ this project, give it a ⭐ (Top right of page) and share it with friends!
+
+---
+
+| [![TOP](https://img.shields.io/badge/_🔺_-Navigate_to_TOP_↑_-blue?style=for-the-badge&labelColor=white)](#Overview) |
+|---|
+
+
 
