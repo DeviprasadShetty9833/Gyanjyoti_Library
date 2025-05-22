@@ -50,7 +50,6 @@
 <br> Marks a borrowed book as returned instead of removing it, maintaining a complete borrowing history.
 <br> 
 
-<br> 8. View Borrowed Books
 <br> ![1.](https://img.shields.io/badge/_8._-View_Borrowed_Books-000080?style=for-the-badge&labelColor=white)   
 <br> Displays all books ever borrowed with their Borrowed/Returned status — avoiding duplicates and preserving history
 <br> 
