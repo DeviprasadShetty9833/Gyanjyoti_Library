@@ -26,15 +26,15 @@
 <br> Allows the user to insert a new book (ID, Title, Author) into the library. Books are stored in a Binary Search Tree for fast and sorted access.
 <br> 
 
-<br> 2. View Books
+<br> ![2.](https://img.shields.io/badge/_1._-View_Books-000080?style=for-the-badge&labelColor=white)   
 <br> Displays all books in ascending order of Book IDs using in-order traversal of the BST.
 <br> 
 
-<br> 3. Search Book
+<br> ![3.](https://img.shields.io/badge/_3._-Search_Book-000080?style=for-the-badge&labelColor=white)   
 <br> Search for any book by its ID using efficient BST search logic.
 <br> 
 
-<br> 4. Delete Book
+<br> ![4.](https://img.shields.io/badge/_4._-Delete_Book-000080?style=for-the-badge&labelColor=white)   
 <br> Remove a book from the library by ID. All three BST deletion cases (leaf, one child, two children) are handled.
 <br> 
 
