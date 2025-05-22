@@ -22,8 +22,7 @@
 
 # Key Features:
 
-<br> 1. Add Book
-<br> ![1.](https://img.shields.io/badge/_1]_-Add_Book-000080?style=for-the-badge&labelColor=white)   
+<br> ![1.](https://img.shields.io/badge/_1._-Add_Book-000080?style=for-the-badge&labelColor=white)   
 <br> Allows the user to insert a new book (ID, Title, Author) into the library. Books are stored in a Binary Search Tree for fast and sorted access.
 <br> 
 
