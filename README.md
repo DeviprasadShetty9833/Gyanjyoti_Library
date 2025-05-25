@@ -22,35 +22,35 @@
 
 # Key Features:
 
-<br> ![1.](https://img.shields.io/badge/_1._-Add_Book-000080?style=for-the-badge&labelColor=white)   
+<br> ![1.](https://img.shields.io/badge/_1._-Add_Book-E34F26?style=for-the-badge&labelColor=white)   
 <br> Allows the user to insert a new book (ID, Title, Author) into the library. Books are stored in a Binary Search Tree for fast and sorted access.
 <br> 
 
-<br> ![2.](https://img.shields.io/badge/_2._-View_Books-000080?style=for-the-badge&labelColor=white)   
+<br> ![2.](https://img.shields.io/badge/_2._-View_Books-E34F26?style=for-the-badge&labelColor=white)   
 <br> Displays all books in ascending order of Book IDs using in-order traversal of the BST.
 <br> 
 
-<br> ![3.](https://img.shields.io/badge/_3._-Search_Book-000080?style=for-the-badge&labelColor=white)   
+<br> ![3.](https://img.shields.io/badge/_3._-Search_Book-E34F26?style=for-the-badge&labelColor=white)   
 <br> Search for any book by its ID using efficient BST search logic.
 <br> 
 
-<br> ![4.](https://img.shields.io/badge/_4._-Delete_Book-000080?style=for-the-badge&labelColor=white)   
+<br> ![4.](https://img.shields.io/badge/_4._-Delete_Book-E34F26?style=for-the-badge&labelColor=white)   
 <br> Remove a book from the library by ID. All three BST deletion cases (leaf, one child, two children) are handled.
 <br> 
 
-<br> ![5.](https://img.shields.io/badge/_5._-Undo_Last_Deleted_Book-000080?style=for-the-badge&labelColor=white)   
+<br> ![5.](https://img.shields.io/badge/_5._-Undo_Last_Deleted_Book-E34F26?style=for-the-badge&labelColor=white)   
 <br> Restores the most recently deleted book using a Stack to implement undo functionality (optional feature).
 <br> 
 
-<br> ![6.](https://img.shields.io/badge/_6._-Borrow_Book-000080?style=for-the-badge&labelColor=white)   
+<br> ![6.](https://img.shields.io/badge/_6._-Borrow_Book-E34F26?style=for-the-badge&labelColor=white)   
 <br> Records a borrowed book into a Linked List, allowing the user to borrow any available book by ID.
 <br> 
 
-<br> ![7.](https://img.shields.io/badge/_7._-Return_Book-000080?style=for-the-badge&labelColor=white)   
+<br> ![7.](https://img.shields.io/badge/_7._-Return_Book-E34F26?style=for-the-badge&labelColor=white)   
 <br> Marks a borrowed book as returned instead of removing it, maintaining a complete borrowing history.
 <br> 
 
-<br> ![1.](https://img.shields.io/badge/_8._-View_Borrowed_Books-000080?style=for-the-badge&labelColor=white)   
+<br> ![1.](https://img.shields.io/badge/_8._-View_Borrowed_Books-E34F26?style=for-the-badge&labelColor=white)   
 <br> Displays all books ever borrowed with their Borrowed/Returned status — avoiding duplicates and preserving history
 <br> 
 
